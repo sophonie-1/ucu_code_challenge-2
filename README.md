@@ -110,8 +110,14 @@ plt.imshow(final_image.astype(np.uint8))
 plt.axis('off')
 plt.show()
 ```
+# To create image file
 
+````run in terminal or in vs code```
+----
+python code_for_get_image.py
 ---
+but you need to delete that first image to avoid name confusion renaming
+
 
 # 📊 Example Output
 
